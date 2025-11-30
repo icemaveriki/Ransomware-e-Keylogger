@@ -1,0 +1,4 @@
+vai ficar em execucao em segundo plano.
+toda vez que o usuario digitar uma tecla,o programa vai capturar essa tecla.
+O que for digitado,sera gravado em umarquivo .tct.
+O arquivo vai mostrar tudo o que foi digitado, de forma sequencial.
